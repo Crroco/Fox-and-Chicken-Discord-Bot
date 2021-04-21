@@ -1,0 +1,5 @@
+{
+    "commands" : ["help", "cards", "setcards", "start", "gameinfo", "playerinfo", "credits", "howtoplay", "c card_name"],
+    "description" : ["Don t know how the bot works? Use this command to learn about the other commands", "Shows you a list of all the cards in the game", "You set the playing deck for the next game of Fox and Chicken", "You start the game of Fox and Chicken. You will be shown the playing deck and then will be asked if you want to continue. Be sure you are playing with the correct deck and everyone is ready before you confirm.", "This command gives you information about a previously played game. You will need the ID of the game in order to see be able to see the stats.", "By using this command you can see the stats of another player.", "Find more about the creators of the Original Card game and about the people behind this bot.", "Learn the basics of the game", "Get info about a specific card by typing it s name in the \"card_name\" field"], 
+    "ready2use" : [true, true, false, false, false, false, true, false, true]
+}
